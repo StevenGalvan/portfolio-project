@@ -29,7 +29,7 @@ _This is really simple webpage to showcase my projects from Epicodus. Ive includ
 
 
 ## License
-[MIT](https://www.genome.gov/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 _If you run into any issues, please reach out to me directly at galvan4739@gmail.com. If you would like to make contributions, please clone and create branches_
 
