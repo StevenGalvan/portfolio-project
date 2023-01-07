@@ -16,11 +16,9 @@ _This is really simple webpage to showcase my projects from Epicodus. Ive includ
 
 ## Setup/Installation Requirements
 
-* _Navigate to https://github.com/StevenGalvan/portfolio-project.git_
-* _Navigate to https://github.com/StevenGalvan/portfolio-project.git_
-* OR
-* _visit StevenGalvan.github.io/portfolio-project/_
-* _If you are experiencing trouble accessing/loading files, please clone to your desktop._
+* _Navigate to https://stevengalvan.github.io/portfolio-project/ to view live site_
+* Navigate to my repository and clone at https://github.com/StevenGalvan/portfolio-project
+* _Please clone to your desktop. The .zip file contains all the necesary elements._
 
 
 ## Known Bugs
@@ -31,7 +29,7 @@ _This is really simple webpage to showcase my projects from Epicodus. Ive includ
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-_If you run into any issues, please reach out to me directly at galvan4739@gmail.com. If you would like to make contributions, please clone and create branches_
+_If you run into any issues, please reach out to me directly at galvan4739@gmail.com. If you would like to make contributions, please clone and create branches. Test out all new additions before submitting contributions._
 
 Copyright (c) 2023 Steven Galvan
 
