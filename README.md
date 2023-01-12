@@ -18,7 +18,7 @@ _This is really simple webpage to showcase my projects from Epicodus. Ive includ
 
 * Navigate to my repository and clone at https://github.com/StevenGalvan/portfolio-project
 * _Please clone to your desktop. The .zip file contains all the necesary elements._
-•_You must open index.html in the browser after cloning to view this project_
+* _You must open index.html in the browser after cloning to view this project_
 
 
 ## Known Bugs
